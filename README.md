@@ -1,3 +1,5 @@
+**Note**: This repository has been frozen while we consider the submissions for the QHack Open Hackathon. We hope you enjoyed the event!
+
 ![image](img/qhack-banner.png)
 
 Welcome to [QHack](https://qhack.ai), the one-of-a-kind quantum computing hackathon! 
